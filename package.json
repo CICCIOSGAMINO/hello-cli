@@ -1,5 +1,5 @@
 {
-  "name": "hello-cli",
+  "name": "hello",
   "version": "1.0.0",
   "description": "Simple test for Node.js snap building/versioning",
   "bin": "./index.mjs",
